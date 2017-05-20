@@ -1,8 +1,7 @@
 [package]
 name = "rocket-loadavg-api"
 version = "0.1.0"
-authors = ["Sebastián Magrí <sebasmagri@gmail.com>"]
-
+authors = ["Brandon Richardson <brandon.richardson4328@outlook.com>"]
 [dependencies]
 libc = "*"
 rocket = "0.2.6"
